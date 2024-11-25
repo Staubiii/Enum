@@ -22,5 +22,5 @@ class Plugin extends BasePlugin
      *
      * @var string
      */
-    protected $name = 'BootstrapUI';
+    protected $name = 'Enum';
 }
